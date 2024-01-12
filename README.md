@@ -1,0 +1,1 @@
+Desafio de lógica em Javascript, utilizando váriaveis, operadores, laços de repetição e estruturas de decisão, usando um exemplo simples de um classificador de nível de herói de um jogo, baseado no XP (experiência), relacionando ao nível do personagem.
